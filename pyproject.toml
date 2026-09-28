@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-pauli-algebra-stabilizer-measurement-skill"
+version = "1.0.0"
+description = "Pauli group algebra matrices with tensor products, commutation relations, and stabilizer projection"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
