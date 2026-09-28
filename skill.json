@@ -1,0 +1,20 @@
+{
+  "name": "genpark-pauli-algebra-stabilizer-measurement-skill",
+  "version": "1.0.0",
+  "description": "Pauli group algebra matrices with tensor products, commutation relations, and stabilizer projection",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "pauli-algebra",
+    "stabilizer-formalism",
+    "quantum-error-correction",
+    "commutation-relations",
+    "pauli-matrices",
+    "python-standard-library",
+    "agent-skills",
+    "quantum-information",
+    "quantum-codes",
+    "operator-algebra"
+  ]
+}
