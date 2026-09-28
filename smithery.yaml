@@ -1,0 +1,6 @@
+name: genpark-pauli-algebra-stabilizer-measurement-skill
+version: 1.0.0
+description: Pauli group algebra matrices with tensor products, commutation relations, and stabilizer projection
+command: python
+args:
+  - mcp_server.py
